@@ -1,4 +1,4 @@
-\# PowerShell-Domain-Controller-Audit-Script
+\# PowerShell-Server-Audit-Script
 
 \# A PowerShell script which can be copied/pasted into a PowerShell console window and retrieve auditable server configuration settings. This script only runs a series a queries (it does not make any modifications) and then creates a folder on the currently logged in user's desktop nameded after the computer name which can then be zipped and uploaded as supporting documentation.
 
